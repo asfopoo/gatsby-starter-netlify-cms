@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: "make this shit work "
+title: "I need to fix me "
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
